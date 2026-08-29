@@ -13,6 +13,7 @@ The project currently provides the following calculator operations:
 - Addition
 - Subtraction
 - Multiplication
+- Division with zero-division error handling
 
 The main program also displays the student's name and the current date.
 
