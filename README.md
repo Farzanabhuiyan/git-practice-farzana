@@ -1,13 +1,38 @@
 # Git Practice Project
 
+A practical Git and GitHub project created for Module 8.
+
 ## Student Information
 
-**Name:** Farzana Bhuiyan Ame
+| Field | Information |
+|---|---|
+| Name | Farzana Bhuiyan Ame |
+| Project | Git & GitHub Practical Assignment |
+| Module | Module 8 |
 
-## What This Project Does
+## Project Description
 
-This project is created as part of the Module 8 Git & GitHub Practical Assignment.
+This project demonstrates fundamental Git and GitHub operations through a small Python calculator project.
 
-It demonstrates basic Git and GitHub operations including repository creation, commits, branches, merging, and pushing a local project to GitHub.
+## Features
 
-The project also contains a simple Python program and basic calculator functions.
+- Display student's name
+- Display current date
+- Addition
+- Subtraction
+- Version control with Git
+- Feature branches
+- Branch merging
+- GitHub remote repository
+
+## Project Structure
+
+```text
+git-practice-farzana/
+├── README.md
+├── .gitignore
+├── src/
+│   ├── main.py
+│   └── utils.py
+└── docs/
+    └── project-description.md
