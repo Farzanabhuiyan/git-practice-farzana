@@ -24,6 +24,7 @@ This project demonstrates fundamental Git and GitHub operations through a small 
 - Feature branches
 - Branch merging
 - GitHub remote repository
+- Division with zero-division error handling
 
 ## Project Structure
 
